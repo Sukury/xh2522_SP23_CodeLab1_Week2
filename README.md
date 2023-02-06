@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Check out my updated game for week 2 
 
-DO NOT LEAVE IT LIKE THIS!!!
+I try to redo the coding I learning from the class to switch scenes and add the animation sprites using code to the player's movement.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Some questions about how to add animation with animator setting to the GetKeyDown function. I use GetAxiesRaw, movement.x and movement.y instead.
